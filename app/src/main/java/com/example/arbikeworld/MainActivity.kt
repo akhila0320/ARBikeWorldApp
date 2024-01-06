@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun openCatalog() {
-        val intent = Intent(this, CatalogViewAcrivity::class.java)
+        val intent = Intent(this, CatalogViewActivity::class.java)
         intent.putExtra("productName", "passmein")
         startActivity(intent)
     }
