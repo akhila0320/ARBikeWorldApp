@@ -127,6 +127,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.98"
-        app:srcCompat="@drawable/scanner" />
+        app:srcCompat="@android:drawable/ic_menu_myplaces" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
